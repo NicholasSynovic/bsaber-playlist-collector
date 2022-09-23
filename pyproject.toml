@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "bsaber-playlist-collector"
 version = "0.1.1"
-description = ""
+description = " A tool to collect and download all official and community playlists from bsaber.com "
 authors = ["Nicholas M. Synovic <nicholas.synovic@gmail.com>"]
 
 [tool.poetry.dependencies]
